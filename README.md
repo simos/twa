@@ -1,3 +1,5 @@
+[![Snap Status](https://build.snapcraft.io/badge/simos/twa.svg)](https://build.snapcraft.io/user/simos/twa)
+
 twa
 ===
 
